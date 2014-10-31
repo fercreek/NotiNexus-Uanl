@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res" >
+            <file
+                name="activity_my"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/layout/activity_my.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_launcher"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Configuraciones
+                </string>
+                <string name="Login" >Login
+                </string>
+                <string name="app_name" >NotiNexus Fime
+                </string>
+                <string name="username" >Usuario:
+                </string>
+                <string name="hello_world" >NotiNexus
+                </string>
+                <string name="password" >Contraseña:
+                </string>
+                <string name="attempts" >Intentos restantes:
+                </string>
+                <string name="title_activity_my_activity2" >Materias
+                </string>
+            </file>
+            <file
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                name="my"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/menu/my.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="ic_launcher"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/values-v21/styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+                </style>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="my_activity2"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/menu/my_activity2.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="logo"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/drawable-xhdpi/logo.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg1"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/drawable-xhdpi/bg1.jpg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_my_activity2"
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/layout/activity_my_activity2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/main/res/values/color.xml"
+                qualifiers="" >
+                <color name="blanco" >#FFFFFF
+                </color>
+            </file>
+        </source>
+        <source path="/home/fer/Downloads/NotiNexusFimeUanl/app/build/generated/res/rs/debug" />
+        <source path="/home/fer/Downloads/NotiNexusFimeUanl/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/fer/Downloads/NotiNexusFimeUanl/app/src/debug/res" />
+    </dataSet>
+
+</merger>
