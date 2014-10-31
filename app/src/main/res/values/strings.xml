@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotiNexus Fime</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="hello_world">NotiNexus</string>
+    <string name="username">Usuario:</string>
+    <string name="password">Contraseña:</string>
+    <string name="Login">Login</string>
+    <string name="attempts">Intentos restantes:</string>
+    <string name="title_activity_my_activity2">Materias</string>
+</resources>
